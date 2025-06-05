@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<body>
+    <header>
+        <h1>Contact Us</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html" target="_blank" rel="noopener">Home</a></li>
+            <li><a href="about.html" target="_blank" rel="noopener">About</a></li>
+            <li><a href="schedule.html" target="_blank" rel="noopener">Schedule</a></li>
+            <li><a href="register.html" target="_blank" rel="noopener">Register</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section>
+            <h2>Get in Touch</h2>
+            <p>If you have any questions or need further information, please feel free to contact us.</p>
+            <a href="mailto:email@example.com" target="_blank" rel="noopener">
+                <p>Email us at: TechCon</p>
+            </a>
+        </section>
+        <div class="socials">
+            <h2>Follow Us</h2>
+            <p>Stay updated with the latest news and announcements:</p>
+            <ul>
+                <li><a href="https://twitter.com/techcon" target="_blank" rel="noopener">Twitter</a></li>
+                <li><a href="https://facebook.com/techcon" target="_blank" rel="noopener">Facebook</a></li>
+                <li><a href="https://linkedin.com/company/techcon" target="_blank" rel="noopener">LinkedIn</a></li>
+            </ul>
+        </div>
+        <iframe title="Location of TechCon at School of Basic Medical Sciences, University of Benin" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.9979228826273!2d5.621608974045068!3d6.3942680246535915!2m3!
+        1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x10472d64bccf8b19%3A0x32cc6998d240169f!
+        2sSchool%20of%20Basic%20Medical%20Sciences%2C%20University%20of%20Benin!5e0!3m2!
+        1sen!2sng!4v1748874829514!5m2!1sen!2sng">
+            <p>Find us here:</p>
+        </iframe>
+
+        <form action="" method="get">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="Your Name" required>
+            <br>
+
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email" placeholder="Your Email" required>
+            <br>
+
+            <label for="message">Message:</label>
+            <textarea id="message" name="message" rows="4" placeholder="Your Message" required></textarea>
+            <br>
+
+            <button type="submit">Send Message</button>
+        </form>
+
+    </main>
+
+    <footer>
+        <p>
+            &copy; copyright 2024 TechCon. All rights reserved.
+        </p>
+        <p>
+            Follow us on:
+            <a href="https://twitter.com/techcon" target="_blank" rel="noopener">Twitter</a>,
+            <a href="https://facebook.com/techcon" target="_blank" rel="noopener">Facebook</a>,
+            <a href="https://linkedin.com/company/techcon" target="_blank" rel="noopener">LinkedIn</a>
+        </p>
+    </footer>
+
+</body>
+</html>

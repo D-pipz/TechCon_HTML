@@ -3,141 +3,149 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>About</title>
+    <title>TECHCON 2024</title>
 </head>
 <body>
-
     <header>
         <h1>
             About TechCon 2024
         </h1>
     </header>
-
     <nav>
         <ul>
-            <li> 
-                <a href="index.html" target="_blank" rel="noopener">Home</a>
+            <li>
+                <a href="./schedule.html">Schedule html</a>
             </li>
             <li>
-                <a href="schedule.html" target="_blank" rel="noopener">Schedule</a>
+                <a href="./contact.html">Contact html</a>
             </li>
             <li>
-                <a href="register.html" target="_blank" rel="noopener">Register</a>
+                <a href="./register.html">Register html</a>
             </li>
             <li>
-                <a href="contact.html" target="_blank" rel="noopener">Contact</a>
+                <a href="index.html">Home</a>
             </li>
         </ul>
+        
     </nav>
-
     <main>
         <article>
             <h2>
-                History
+                HISTORY OF TECHON 2024
             </h2>
             <p>
-                TechCon was established in 2010 as a platform for technology enthusiasts to share knowledge 
-                and network. Over the years, it has grown into one of the leading tech conferences, 
-                attracting thousands of participants from around the world.
-            </p>
-            <figure>
-                <img src="techcon-history.jpg" alt="TechCon History" width="600" height="400">
-                <figcaption>
-                    TechCon 2015 - The year we reached 10,000 attendees!
-                </figcaption>
-            </figure>
-            <figure>
-                <img src="techcon-2023.jpg" alt="TechCon 2023" width="600" height="400">
-                <figcaption>
-                    TechCon 2023 - A successful event with over 15,000 participants.
-                </figcaption>
-            </figure>
-            <figure>
-                <img src="techcon-2024.jpg" alt="TechCon 2024" width="600" height="400">
-                <figcaption>
-                    TechCon 2024 - Join us for the latest innovations and networking opportunities!
-                </figcaption>
-            </figure>
-        </article>
-
-        <article>
-            <h2>
-                Mission
-            </h2>
-            <p>
-                Our mission is to foster innovation and collaboration in the tech community. 
-                We aim to provide a platform for sharing ideas, learning from industry leaders, 
-                and networking with peers. TechCon is dedicated to 
-                promoting diversity and inclusion in technology.
+                TechCon began as a visionary idea — a grassroots initiative born out of the need to bridge the gap between emerging technologies and practical, real-world applications. First conceptualized in 2021 by a collective of tech enthusiasts, educators, and startup founders, the conference was envisioned as a hub where innovation meets collaboration.The inaugural TechCon was held in 2022 as a modest, single-day meetup focused on software development, blockchain, and digital entrepreneurship. Despite its small scale, the impact was significant. It brought together over 200 participants, including students, tech professionals, and investors, all eager to connect and learn.
+                Building on that momentum, TechCon evolved rapidly. By 2023, it expanded to a 3-day event with a wider scope, featuring tracks on AI, Web3, cybersecurity, robotics, and green technology. The conference also introduced interactive workshops, live hackathons, and pitch sessions, establishing itself as a launchpad for startups and a recruiting ground for tech companies.
+                Now, in TechCon 2024, the event has matured into one of the most anticipated tech conferences in the region. It celebrates not just the advancement of technology, but also its human-centered design and potential for social impact. This year’s theme — "Tech for a Resilient Future" — reflects the urgent need for sustainable innovation, digital inclusion, and resilient systems in a rapidly changing world.
             </p>
             <p>
-                We believe that by bringing together diverse voices and perspectives, we can drive 
-                meaningful change in the tech industry. Our goal is to create an inclusive environment 
-                where everyone feels welcome and empowered to contribute.
+                TechCon 2024 is more diverse, inclusive, and dynamic than ever, featuring:
             </p>
-            <p>
-                Join us at TechCon 2024 to be part of this mission and help shape the future of technology!
-            </p>
-        </article>
-
-        <article>
-            <h2>
-                Past Speakers
-            </h2>
             <ul>
                 <li>
-                    <strong>Jane Doe</strong> - CEO of Tech Innovations, keynote speaker at TechCon 2023.
+                    5 Thematic Tracks
+                </li>
+                <li>
+                    40+ Speakers from Around the Globe
+                </li>
+                <li>
+                    Live Demos & Startup Showcases
+                </li>
+                <li>
+                    Youth & Women in Tech Spotlights
+                </li>
+                <li>
+                    Virtual Reality Networking Lounges
+                </li>
+                <li>
+                    Global Collaboration Forums
+                </li>
+            </ul>
+            <p>
+                As it continues to grow, TechCon remains rooted in its founding principles: Inspire. Innovate. Impact.
+            </p>
+            <figure>
+              <p>
+                 <img src="./Assets/Techon 1.png.jpg" height="200px" width="250px"   alt="Techon Image">
+                  <img src="./Assets/Techon 2.png.jpg" height="200px" width="250px"   alt="Techon Image">
+               </p>
+               <figcaption>
+                Welcome To A New World Of Technology
+               </figcaption>
+            </figure>
+        </article>
+
+        <section>
+            <h2>
+                Mission of TechCon 2024
+            </h2>
+            <p>
+              To empower a global community of innovators, technologists, and changemakers by creating a platform that fosters knowledge-sharing, collaboration, and the responsible development of technology for a smarter, more inclusive, and sustainable future.
+            </p>
+            <h2>
+                Notable Speakers from Previous TechCon Editions
+            </h2>
+            <ol>
+                <li>
+                    Dr. Adaora Emefiele
+                  <p>
+                      A trailblazer in African AI development, Dr. Adaora is known for pioneering machine learning models adapted to local languages. Her work in ethical AI has influenced policy in several African countries. At TechCon, she delivered keynotes on “Bias in AI” and “Building Inclusive Algorithms.”
+                  </p>
+                  <figure>
+                    <img src="./Assets/Dr Adaora Emefiele.png.jpg" alt="picture of Dr. Adaora Emefiele">
+                    <figcaption>
+                         CTO, NovaGen AI | Speaker at TechCon 2022 & 2023
+                    </figcaption>
+                  </figure>
+                </li>
+
+                <li>
+                    Samuel Kentaro
                     <p>
-                        Jane Doe is a visionary leader in the tech industry, known for her work in AI and machine learning. 
-                        She has been a keynote speaker at several international conferences and is an
+                        A Japanese-Nigerian robotics engineer, Samuel’s innovations in smart agriculture have transformed small-scale farming across Asia and Africa. His session “AgroTech and the Rise of Smart Farming” drew over 1,000 attendees and inspired cross-border startup collaborations.
                     </p>
                     <figure>
-                        <img src="jane-doe.jpg" alt="Jane Doe" width="200" height="200">
+                        <img src="./Assets/Samuel kentaro.png.jpg" alt="Image of samuel Kentaro">
                         <figcaption>
-                            Jane Doe at TechCon 2023
+                             Founder & CEO, GreenByte Robotics | TechCon 2023
                         </figcaption>
                     </figure>
                 </li>
+                
                 <li>
-                    <strong>John Smith</strong> - Renowned AI researcher, speaker at TechCon 2022.
+                    Tara Mensah
                     <p>
-                        John Smith is a leading expert in artificial intelligence, with numerous publications in top journals. 
-                        He has shared his insights at various tech conferences and is known for his engaging presentations.
+                          Tara is a digital transformation expert and one of the first women to lead a cloud-computing startup in West Africa. Her contributions to mobile-first enterprise tools have empowered thousands of SMEs. At TechCon 2022, she led a masterclass on “Cloud as a Catalyst for Economic Growth.”
                     </p>
                     <figure>
-                        <img src="john-smith.jpg" alt="John Smith" width="200" height="200">
+                        <img src="./Assets/Tera Mensah.jpg" alt="Image of Tara Mensah">
                         <figcaption>
-                            John Smith presenting at TechCon 2022
+                             Head of Product, NubiaCloud | TechCon 2022
                         </figcaption>
+                    </figure>
                 </li>
+
                 <li>
-                    <strong>Emily Johnson</strong> - Web development expert, panelist at TechCon 2021.
+                   Jacob Martinez
+
                     <p>
-                        Emily Johnson is a web development guru with over a decade of experience in the field. 
-                        She has been a panelist at various tech events, sharing her expertise on the latest web technologies.
+                       Jacob is a leading voice in virtual and augmented reality development. With over a decade at Meta, he contributed to the architecture of Horizon Worlds. At TechCon, he ran a demo and workshop on “The Future of Spatial Computing in Everyday Life.”
                     </p>
                     <figure>
-                        <img src="emily-johnson.jpg" alt="Emily Johnson" width="200" height="200">
+                        <img src="./Assets/Jacob Martinez.png.jpg" alt="Image of Jacon Matinez">
                         <figcaption>
-                            Emily Johnson at TechCon 2021
+                             Lead Engineer, Meta XR Labs | TechCon 2023
                         </figcaption>
-
+                    </figure>
                 </li>
-            </ul>
-        </article>
-    </main>
-
-    <footer>
-        <p>
-            &copy; copyright 2024 TechCon. All rights reserved.
-        </p>
-        <p>
-            Follow us on:
-            <a href="https://twitter.com/techcon" target="_blank" rel="noopener">Twitter</a>,
-            <a href="https://facebook.com/techcon" target="_blank" rel="noopener">Facebook</a>,
-            <a href="https://linkedin.com/company/techcon" target="_blank" rel="noopener">LinkedIn</a>
-        </p>
-    </footer>
-    
-</body>
+                <footer>
+                    &copy; copyright 2024 TechCon. All rights reserved.
+                    <p>
+                        Follow us on:
+                        <a href="https://twitter.com/techcon" target="_blank" rel="noopener">Twitter</a>,
+                        <a href="https://facebook.com/techcon" target="_blank" rel="noopener">Facebook</a>,
+                        <a href="https://linkedin.com/company/techcon" target="_blank" rel="noopener">LinkedIn</a>
+                    </p>
+                </footer>            
+         </body>    
 </html>

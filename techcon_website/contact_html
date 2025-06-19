@@ -1,34 +1,35 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact</title>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Contact</title>
 </head>
 <body>
-    <header>
-        <h1>Contact Us</h1>
-    </header>
-
-    <nav>
-        <ul>
-            <li><a href="index.html" target="_blank" rel="noopener">Home</a></li>
-            <li><a href="about.html" target="_blank" rel="noopener">About</a></li>
-            <li><a href="schedule.html" target="_blank" rel="noopener">Schedule</a></li>
-            <li><a href="register.html" target="_blank" rel="noopener">Register</a></li>
-        </ul>
-    </nav>
-    <main>
-        <section>
-            <h2>Get in Touch</h2>
-            <p>If you have any questions or need further information, please feel free to contact us.</p>
+   <header>
+      <h1>
+         Contact Us
+      </h1>
+   </header>
+   <nav>
+      <ul>
+         <li><a href="./about.html" target="_blank" rel="noopener">About</a></li>
+         <li><a href="./register.html" target="_blank" rel="noopener">Register</a></li>
+         <li><a href="./schedule.html" target="_blank" rel="noopener">Schedule</a></li>
+         <li><a href="/html_basic/techcon_website/index.html" target="_blank" rel="noopener"></a></li>
+      </ul>
+   </nav>
+   <main>
+         <section>
+            <h2>Visit Us Today</h2>
+            <p>For further questions, you can reach us@</p>
             <a href="mailto:email@example.com" target="_blank" rel="noopener">
                 <p>Email us at: TechCon</p>
             </a>
         </section>
         <div class="socials">
             <h2>Follow Us</h2>
-            <p>Stay updated with the latest news and announcements:</p>
+            <p>Stay tuned with the latest updates</p>
             <ul>
                 <li><a href="https://twitter.com/techcon" target="_blank" rel="noopener">Twitter</a></li>
                 <li><a href="https://facebook.com/techcon" target="_blank" rel="noopener">Facebook</a></li>
@@ -72,5 +73,7 @@
         </p>
     </footer>
 
+   </main>
+   
 </body>
 </html>
